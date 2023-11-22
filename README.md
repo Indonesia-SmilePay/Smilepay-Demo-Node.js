@@ -1,1 +1,2 @@
-SmilePay-SDK-Node.js
+# SmilePay-SDK-Java
+SmilePay-SDK-Java

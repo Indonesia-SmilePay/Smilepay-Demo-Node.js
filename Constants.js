@@ -13,7 +13,7 @@ module.exports = {
     BASE_SANDBOX_URL: "sandbox-gateway.smilepay.id",
 
     // PRODUCTION URL. From docs API. If you pass the sandbox docking, you can switch the URL to production.
-    BASE_URL: "gateway-test.smilepay.id",
+    BASE_URL: "gateway.smilepay.id",
 
     // from docs API
     ACCESS_TOKEN_API: "/v1.0/access-token/b2b",
@@ -33,5 +33,5 @@ module.exports = {
     // from docs API
     PAY_OUT_API: "/v1.0/disbursement/cash-out",
 
-    ACCESS_TOKEN: "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuYmYiOjE3NDEwNTY3NzQsImV4cCI6MTc0MTA1NzY3NCwiaWF0IjoxNzQxMDU2Nzc0LCJNRVJDSEFOVF9JRCI6IjEwMDAxIn0.QnUrG4BdqsXp9GNV7KlTy94xPVrugL81zDcFXyQfWgc"
+    ACCESS_TOKEN: "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuYmYiOjE3NDEwNjY0MzcsImV4cCI6MTc0MTA2NzMzNywiaWF0IjoxNzQxMDY2NDM3LCJNRVJDSEFOVF9JRCI6IjEwMDAxIn0.21UBIYzj6qcCzIYh9O_Fx8dLR_noh5SvMDTuDcJFfws"
 };
